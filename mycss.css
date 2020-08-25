@@ -1,0 +1,20 @@
+body{
+	background:#4f4e4c;
+	color:white;
+}
+.jumbotron{
+	background:linear-gradient(to bottom, #ff9900 0%, #ff5050 100%);
+	text-align:center;
+}
+.bi{
+	font-size:50px;
+	
+	float:left;
+}
+h3{
+	margin:10px;
+	padding-left:50px;
+}
+.row{
+	padding:2%;
+}
